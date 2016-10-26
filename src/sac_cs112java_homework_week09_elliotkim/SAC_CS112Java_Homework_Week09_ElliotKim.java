@@ -13,7 +13,7 @@
  *			Constructor
  *			Method
  *			Main program
- * https://github.com/SacCs112KimElliot/SAC_CS112-Java_Homework_Week07_ElliotKim.git
+ https://github.com/SacCs112KimElliot/SAC_CS112-Java_Homework_Week09_ElliotKim/invitations
  */
 package sac_cs112java_homework_week09_elliotkim;
 
